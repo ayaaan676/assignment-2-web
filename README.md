@@ -78,7 +78,6 @@ I also added a hover effect to the navigation links.
 
 
 
-![Task 0 — Navigation Bar](screenshots/task0.png)
 
 ---
 
@@ -100,7 +99,6 @@ I also used Flexbox inside each card to organize the content vertically. The but
 A hover effect was added to the cards. When the mouse moves over a card, it moves slightly upward and displays a shadow.
 
 
-![Task 1 — Card Row](screenshots/task1.png)
 
 ---
 
@@ -131,8 +129,6 @@ grid-template-areas:
 ```
 
 
-![Task 2 — Page Layout](screenshots/task2.png)
-
 ---
 
 ## Task 3 — Image Gallery
@@ -149,8 +145,6 @@ grid-template-columns: repeat(3, 1fr);
 
 I also added hover effects. When the user moves the mouse over an image, the image slightly scales and a caption appears.
 
-
-![Task 3 — Image Gallery](screenshots/task3.png)
 
 ---
 
@@ -174,7 +168,6 @@ I used **Flexbox** inside each project card to organize the title, description, 
 This task helped me understand how Flexbox and CSS Grid can be used together in the same webpage.
 
 
-![Task 4 — Portfolio Page](screenshots/task4.png)
 
 ---
 
