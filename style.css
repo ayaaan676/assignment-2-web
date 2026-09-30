@@ -1,4 +1,4 @@
-/* Task 0: Navigation Bar */
+
 
 * {
     margin: 0;
@@ -38,7 +38,7 @@ body {
 .nav-links a:hover {
     color: #00bcd4;
 }
-/* Task 1: Card Row */
+
 
 .cards-section {
     padding: 50px;
@@ -100,7 +100,7 @@ body {
     transform: translateY(-8px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
-/* Task 2: Page Layout with Grid */
+
 
 .grid-section {
     padding: 50px;
@@ -154,7 +154,7 @@ body {
     background-color: #222;
     color: white;
 }
-/* Task 3: Image Gallery */
+
 
 .gallery-section {
     padding: 50px;
@@ -207,7 +207,7 @@ body {
 .gallery-item:hover .caption {
     transform: translateY(0);
 }
-/* Task 4: Portfolio Page */
+
 
 .portfolio-section {
     padding: 50px;
@@ -235,7 +235,6 @@ body {
     gap: 20px;
 }
 
-/* Project cards use Flexbox */
 .project-card {
     display: flex;
     flex-direction: column;
@@ -301,7 +300,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* Footer */
 .portfolio-footer {
     max-width: 1100px;
     margin: 30px auto 0;
