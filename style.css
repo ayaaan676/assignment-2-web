@@ -228,7 +228,6 @@ body {
     margin: 0 auto;
 }
 
-/* Projects area */
 .projects {
     display: flex;
     flex-direction: column;
@@ -275,7 +274,6 @@ body {
     background-color: #444;
 }
 
-/* Sidebar */
 .portfolio-sidebar {
     padding: 25px;
     background-color: white;
